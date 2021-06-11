@@ -4,7 +4,7 @@
 <img align="right" src="https://github.com/sauceisgood/sauceisgood/blob/main/images/computer-illustration.png" width="350"/>
 
 <a href="https://www.linkedin.com/in/efvalves">
-<img align="right" alt="LinkedIn" src="https://img.shields.io/badge/Eduardo%20Alves-Linkedin-blue"/>
+<img align="right" alt="LinkedIn" src="https://img.shields.io/badge/-Eduardo%20Alves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/efvalves/"/>
 </a>
 
 <a href="mailto:eduardoalves@europe.com">
