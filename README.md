@@ -1,4 +1,4 @@
-# [![Eduardo Alves Header](https://github.com/sauceisgood/sauceisgood/blob/main/images/gh-bannner-light.png)](https://www.linkedin.com/in/efvalves/)
+# ![Eduardo Alves Header](https://github.com/sauceisgood/sauceisgood/blob/main/images/gh-bannner-light.png)
 
 ## Hello, i'm Eduardo aka SauceIsGood 👋
 
