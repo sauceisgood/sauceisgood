@@ -1,3 +1,5 @@
+# [![Eduardo Alves Header](https://github.com/sauceisgood/sauceisgood/blob/main/images/gh-bannner-light.png)](https://www.linkedin.com/in/efvalves/)
+
 ## Hello, i'm Eduardo aka SauceIsGood 👋
 
 
@@ -21,5 +23,5 @@
 
 </a>
 <a href="https://github.com/sauceisgood">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=sauceisgood&show_icons=true&theme=radical" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=sauceisgood&show_icons=true&theme=transparent" />
 </a>
