@@ -1,7 +1,7 @@
 ## Hello, i'm Eduardo aka SauceIsGood 👋
 
 
-<img align="right" src="https://raw.githubusercontent.com/sauceisgood/sauceisgood/master/image/computer-illustration.png" width="350"/>
+<img align="right" src="https://github.com/sauceisgood/sauceisgood/blob/main/images/computer-illustration.png" width="350"/>
 
 <a href="https://www.linkedin.com/in/efvalves">
 <img align="right" alt="LinkedIn" src="https://img.shields.io/badge/Eduardo%20Alves-Linkedin-blue"/>
