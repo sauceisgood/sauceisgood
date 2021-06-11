@@ -19,7 +19,7 @@
 
 - 🚀 I’m currently working at <img src="https://img.shields.io/badge/%20-MAPFRE%20-red"/>
 - 💻 Node, ReactJS, Typescript, Python
-- ✨ Learning is continuous and there will always be a next level
+- ✨ “The advance of technology is based on making it fit in so that you don't really even notice it, so it's part of everyday life.”
 
 </a>
 <a href="https://github.com/sauceisgood">
